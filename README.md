@@ -11,7 +11,6 @@ The program displays a menu and allows the user to choose a shape, enter dimensi
   - Rectangle
   - Square
   - Circle
-- User-friendly menu with emoji support
 - Keeps running until you choose **Quit**
 
 ---
