@@ -1,2 +1,20 @@
-# area-calculator
-Simple Python program to calculate areas of shapes
+# 📐 Area Calculator
+
+A simple Python program to calculate the area of different shapes.  
+The program displays a menu and allows the user to choose a shape, enter dimensions, and see the calculated area.
+
+---
+
+## 🚀 Features
+- Calculate the area of:
+  - Triangle
+  - Rectangle
+  - Square
+  - Circle
+- User-friendly menu with emoji support
+- Keeps running until you choose **Quit**
+
+---
+
+## 🖥️ Example Run
+
