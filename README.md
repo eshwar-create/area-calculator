@@ -15,5 +15,5 @@ The program displays a menu and allows the user to choose a shape, enter dimensi
 
 ---
 
-## 🖥️ Example Run
+
 
