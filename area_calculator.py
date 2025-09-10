@@ -38,5 +38,4 @@ def area_calculator():
         else:
             print("\nInvalid choice, try again!\n")
 
-
-
+area_calculator()
